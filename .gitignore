@@ -1,0 +1,7 @@
+*.pyc
+*.pem
+*.pub
+*.zip
+*.db
+*.sql
+venv
