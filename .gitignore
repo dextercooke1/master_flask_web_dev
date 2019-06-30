@@ -4,4 +4,4 @@
 *.zip
 *.db
 *.sql
-venv
+venv/
